@@ -1,0 +1,70 @@
+/* CSS generated at csscreator.com */
+body{ font-family: monospace;
+	font-size: medium;
+	color: #AABBCC;
+	background-color: #000000;
+}
+/*ul{ list-style-type:disc; }*/
+img{ text-align:center;
+	margin-left: auto ;
+  	margin-right: auto ;
+    padding:0pt;
+	display:block;
+	border-width: 0pt;
+	border-style: solid;
+	border-color: #000000;
+	max-width: 100%;
+}
+a{ text-decoration:none; }
+div{ max-width: 500pt ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+hr{
+	max-width: 100pt;
+	border: 0;
+	background-color: #000000;
+	margin-top: 40pt;
+	margin-bottom: 40pt;
+	height: 1px;
+}
+#asciibanner{
+	font-size: small;
+	color: #48C;
+}
+#mainmenu{
+	text-align: center;
+	/*font-family: monospace;*/
+	font-size: medium;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	background-color: #000000;
+	color: #AABBCC;
+}
+#title{
+	text-align: center;
+	font-family: georgia;
+	font-size: small;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	background-color: #000000;
+	color: #AABBCC;
+}
+#content{
+	padding: 10pt;
+	text-align: center;
+	/*background-color: #111122;*/
+	border-color: #000000;
+	border-width: 0pt;
+	border-style: solid;
+}
+#display{
+	font-size: small;
+}
+#header{
+	text-align: center;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	background-color: #000000;
+	color: #AABBCC;
+}
