@@ -2,5 +2,7 @@
 body{ font-family: monospace;
 	font-size: medium;
 	color: #AABBCC;
-	background-image: url("mixing.jpg");
+	background-image: url("mixingc.jpg");
+	background-size: 100%;
+	background-position: 100% 50%;
 }
