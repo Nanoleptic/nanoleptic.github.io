@@ -1,24 +1,37 @@
-/* CSS generated at csscreator.com */
+:root {
+  --main-bg-color: #221e39;
+	--main-color: #7dc2fb;
+	--highlight: #be00b5;
+	--selection: #2E2210;
+}
+
 body{
 	font-family: monospace;
 	font-size: medium;
-	color: #AABBCC;
+	color: var(--main-color);
+	background-color: #1d00fd;
 	background-image: url("mixingc.jpg");
 	background-size: 100%;
 	background-attachment: fixed;
 }
-
 #header{
-	color: #FF00FF;
-	background-color: #000000;
+	color: var(--main-color);;
+	background-color: var(--main-bg-color);
 	margin: 20px;
 	padding: 3px;
 }
 #content{
-	background-color: #000000;
+	background-color: var(--main-bg-color);
 	padding: 20px;
 	width: 80ch;
 	float: right;
 	margin: 20px;
+}
+a{
+	color: var(--highlight);
+	text-decoration: none;
+}
+a:hover{
+	background-color: var(--selection);
 }
 .mdchunk{}
