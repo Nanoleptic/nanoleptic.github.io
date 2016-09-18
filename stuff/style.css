@@ -1,8 +1,24 @@
 /* CSS generated at csscreator.com */
-body{ font-family: monospace;
+body{
+	font-family: monospace;
 	font-size: medium;
 	color: #AABBCC;
 	background-image: url("mixingc.jpg");
 	background-size: 100%;
-	background-position: 100% 50%;
+	background-attachment: fixed;
 }
+
+#header{
+	color: #FF00FF;
+	background-color: #000000;
+	margin: 20px;
+	padding: 3px;
+}
+#content{
+	background-color: #000000;
+	padding: 20px;
+	width: 80ch;
+	float: right;
+	margin: 20px;
+}
+.mdchunk{}
