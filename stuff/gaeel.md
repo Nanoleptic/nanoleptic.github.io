@@ -4,6 +4,7 @@
 
 *Gaeel* is a digital artist, creative programmer, game designer and one hoopy frood. He likes curry, hanging out with his housemates, going to digital media and alt-game events and a good belgian beer.   
 Here are some ways to get in touch with *Gaeel*:   
+   
 * [@_Gaeel_ on Twitter dot com](https://twitter.com/_Gaeel_)
 * [gaeel@nanoleptic.net](mailto:gaeel@nanoleptic.net)
 * Over the phone (France): *(+33) 6 18 95 95 38*
