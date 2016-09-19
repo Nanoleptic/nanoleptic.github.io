@@ -1,8 +1,8 @@
 :root {
-  --main-bg-color: #221e39;
-	--main-color: #7dc2fb;
-	--highlight: #be00b5;
-	--selection: #2E2210;
+  --main-bg-color: #000;
+	--main-color: #FFF;
+	--highlight: #F0F;
+	--selection: #0F0;
 }
 
 body{
@@ -10,7 +10,6 @@ body{
 	font-size: medium;
 	color: var(--main-color);
 	background-color: #1d00fd;
-	background-image: url("mixingc.jpg");
 	background-size: 100%;
 	background-attachment: fixed;
 }
@@ -27,11 +26,46 @@ body{
 	float: right;
 	margin: 20px;
 }
+h1{
+	font-weight: bolder;
+	font-size: medium;
+	padding: 5px;
+	border: 1px;
+	border-style: solid;
+	margin: -6px;
+	max-width: 100%;
+}
+h2{
+	font-weight: bold;
+	font-size: medium;
+	text-decoration: underline;
+}
+li{
+	list-style-type: none;
+}
+em{
+	color: var(--selection);
+}
+
 a{
 	color: var(--highlight);
 	text-decoration: none;
 }
 a:hover{
+	color: var(--main-bg-color);
 	background-color: var(--selection);
 }
-.mdchunk{}
+.mdchunk{
+
+}
+
+body{
+  background-image: url("mixingc.jpg");
+}
+
+:root {
+  --main-bg-color: #221e39;
+	--main-color: #7dc2fb;
+	--highlight: #be00b5;
+	--selection: #b39cea;
+}
