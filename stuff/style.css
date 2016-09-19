@@ -44,16 +44,15 @@ li{
 	list-style-type: none;
 }
 em{
-	color: var(--selection);
+	text-decoration: underline;
 }
-
 a{
 	color: var(--highlight);
 	text-decoration: none;
 }
 a:hover{
 	color: var(--main-bg-color);
-	background-color: var(--selection);
+	background-color: var(--main-color);
 }
 .mdchunk{
 
