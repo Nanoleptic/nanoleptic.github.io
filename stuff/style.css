@@ -1,15 +1,16 @@
 :root {
-  --main-bg-color: #000;
-	--main-color: #FFF;
-	--highlight: #F0F;
-	--selection: #0F0;
+  --main-bg-color: #DDD;
+	--main-color: #222;
+	--highlight: #D2D;
+	--selection: #2D2;
 }
 
 body{
 	font-family: monospace;
 	font-size: medium;
 	color: var(--main-color);
-	background-color: #1d00fd;
+	background-color: #000;
+	background-image: url("/default.png");
 	background-size: 100%;
 	background-attachment: fixed;
 }
