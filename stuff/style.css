@@ -10,7 +10,7 @@ body{
 	font-size: medium;
 	color: var(--main-color);
 	background-color: #000;
-	background-image: url("/default.png");
+	background-image: url("default.png");
 	background-size: 100%;
 	background-attachment: fixed;
 }
