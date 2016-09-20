@@ -26,6 +26,7 @@ Here are some ways to get in touch with Gaeel:
 
 ### Public key:
 
+Hosted at [keybase.io/gaeel](https://keybase.io/gaeel)   
 -----BEGIN PGP PUBLIC KEY BLOCK-----  
 Comment: [https://keybase.io/download](https://keybase.io/download)  
 Version: Keybase Go 1.0.15 (darwin)  
