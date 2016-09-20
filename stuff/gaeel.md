@@ -27,7 +27,7 @@ Here are some ways to get in touch with Gaeel:
 ### Public key:
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----  
-Comment: https://keybase.io/download  
+Comment: [https://keybase.io/download](https://keybase.io/download)  
 Version: Keybase Go 1.0.15 (darwin)  
 
 xsFNBFc8+bcBEADg7zFZH8Qv0AkaE2vVZ99iLjEMh7auL3exRXjwpgkWXsKkyULJ
