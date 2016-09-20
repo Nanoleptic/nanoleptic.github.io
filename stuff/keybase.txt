@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/gaeel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nanoleptic.net
+  * I am gaeel (https://keybase.io/gaeel) on keybase.
+  * I have a public key with fingerprint 31F2 1A0A 34EF E5A9 9689  0701 E78A 8194 6439 C87B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120412cedafaea31f6276b2588b2fd3a74e6f5238001ff32c02da53f6acce64831a0a",
+            "fingerprint": "31f21a0a34efe5a996890701e78a81946439c87b",
+            "host": "keybase.io",
+            "key_id": "e78a81946439c87b",
+            "kid": "01019b7e28ccbac93ca59636279af8390b46f98b8fc7878149217e284e7383bd9a8d0a",
+            "uid": "765e11ba64bc0148fd304974ec652219",
+            "username": "gaeel"
+        },
+        "service": {
+            "hostname": "nanoleptic.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474388444,
+    "expire_in": 157680000,
+    "prev": "71b3167c73d3264e641d3e6a13324ea0b4e04e38db369b906dfaf56cb05e845d",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJtUFRVGF4+otkNHUQqihydWzoqK9x7z/1cyFIah5xhypqxCbX13HvP
+Xe6Au8vuXWTlU1hHMEcWhxBmzCLUFEHKBigtVLJBYCoHFpOgBgiwLTEIUPqgupfR
+f/06c973eZ7zPO95ry0JM5hCbh/aXyXx1/NCeq5WewxvjMChPExwSF7MkodlosUD
+ZUnIrVozFQmzYDhB4hRBikiCMkQQEDJDsoxA0hwnkLIEIEshRqZJwOE4IcuAFHFS
+gjSQGSiKiKE4QEAcYmZMVuw25HK6FLuqyWo6pN4AFJIRDXme4XicxQnEcpAjeIqh
+AC9yrKARMxxunaGZE6AbJSgOraZdrIv2/gf/0DdO8AKLSE4UBSjyQIQ0zwDNPA9l
+DvC4QDEyzwmcLLIcyxEUTxI6mkIs4IAg8ZCTFn17FuVYhkYEIUCGEkScoDgtOU7x
+WnaRoUmS4HWgG7nscA/S0DaIUBZWYMa0Uo4iIn2qeowHbTu0O7KQU1XEBDtSNarT
+5VAdoiNL62WoqtOiU1WvU8fuRYL1gYpVUOySNkWNkINcbsVhxyyEhhRVRZclKJYC
+HEdRlBlDuU7FhayKjqBZRvsbHNefQTl6FkIABMOKLJAAyWjfRxESQAwkACApBLXJ
+IJxCgJMEwPACjzOSDGWaEQWcRhxFS5ieK9vu0J/UfEKbpulWbHaoelwIK+i4ujPc
+EGIyRDwSqq+XwWSMerh0O+uiDO8FKqz9v/+cPFl2O3Gsscz9feJ8+Jvt+Rd/OJle
+EvHL6I2KvuOTtO8iJxx0BoKnY5f8ZSzfkrLLxb7w2x9JtbZb3obMb5pPH1w9u/75
+rf7sAUyed2O7u2Y967ruvLh+cG3nQuiYye9dSJ9LShwv7E679GkTv2PjTKCiZNuf
+NV0/roqhx+mc1hplbLvr2fry6fjku1/eedtUm5m2Nfqo5VRK+smw9uK9cb1x5IR3
+UMk+Vg2c08lpMZdXjNzvVloXYtWpW91C5ODg3/8si1/a1dI/U32uOHiisTm/cxfZ
+HHl44F5kRGrGQCX+SVjowgHXxOGJePOG5b4nomM7MN9rTfdv+tsu+O+Csymhfa+O
+ps0VLQun2o99/W8guPn4NDvekf/otnK+Jun6laIjRp975eMtfYXmHUVRN8M9wwm9
+WwQjvBBp2tz2wb41raueGukNmhOCTeca21Y8c/7z/bVVNzoWvr3cr+bZSof21OWm
+hpnsTxflLH+l2Oi8MnOggZ+qWjM5O5ryYdvKsF+rvtvoW3okt3fyTOS+j/2mwYCx
+1B54rs7LbQ8ZaJgv/EyYY3a/dMbXc23UEShN3XQo4quQl/3tlVGrDWrp8NEeLGZt
+3Fh25/DZlqxNb3UlP9ZaUjnxZN+JDR+dep3zRP1UUC+9sy7Fwp4n2i4lNb1/L1g+
+REWUt38xVVP2bn1R9H9brMjd
+=W1x/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gaeel
+
+==================================================================
