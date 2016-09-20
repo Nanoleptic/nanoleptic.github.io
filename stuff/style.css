@@ -30,6 +30,9 @@ body{
 	border-style: solid;
 	/*border-color: var(--selection);*/
 }
+img{
+	width: 90%;
+}
 h1{
 	font-weight: bolder;
 	font-size: medium;

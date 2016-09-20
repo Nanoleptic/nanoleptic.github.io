@@ -9,6 +9,10 @@ Here are some ways to get in touch with Gaeel:
 * [gaeel@nanoleptic.net](mailto:gaeel@nanoleptic.net)
 * Over the phone (France): *(+33) 6 18 95 95 38*
 
+Check out my [portfolio](gaeel-portfolio) of moving pictures and old projects
+
+[![Archive](https://i.imgur.com/07C7Jtf.gif)](gaeel-portfolio)
+
 ## Games   
 * [*.lazr.* - A local multiplayer arena shooter](https://gaeel.itch.io/lazr)
 * [*BLAPP* - BLAPP DA INSURGENTS BEFOR DEY BLAPP U](https://gaeel.itch.io/blapp)
