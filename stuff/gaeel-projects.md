@@ -1,6 +1,11 @@
 # Kevin "Gaeel" Bradshaw-Rodriguez   
 ## Projects   
 
+Here are some projects I worked on. Some people would call this a "curriculum vitae". I'm not so sure...   
+Anyway, yes, it's mostly some gamey stuff, prototypey stuff, community stuff.   
+If you're looking for things that are pretty to look at, maybe check out my [/portfolio](/gaeel-lportfolio)?   
+Or you can go back to my [main page](/gaeel) for contact details and more fun stuff...
+
 ### Adventure game prototype   
 
 <iframe width="100%" height="33%" src="https://www.youtube.com/embed/p-tXh7_F4fA" frameborder="0" allowfullscreen></iframe>
@@ -22,7 +27,7 @@ It was a local multiplayer arena shooter, I learn a lot while making this, some 
 
 [An automatic texture packer for Löve2D](https://github.com/Bradshaw/Fudge)   
 Artists like to make lots of pictures, computers like to have one big picture, and programmers like to make artists and computers happy, but *without having to think too hard*.   
-This solves this by packing all the images into a big atlas, and monkey-patching Löve2D so to the coder, it's as if nothing ever happened!   
+This solves that by packing all the images into a big atlas, and monkey-patching Löve2D so to the coder, it's as if nothing ever happened!   
 (It also adds animation stuff and can export its data for quickloading or use in other engines...)
 
 

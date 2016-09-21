@@ -11,7 +11,7 @@ Here are some ways to get in touch with Gaeel:
 
 Check out my [portfolio](gaeel-portfolio) of moving pictures and old projects
 
-[![Archive](https://i.imgur.com/07C7Jtf.gif)](gaeel-portfolio)
+[<video src="https://i.imgur.com/07C7Jtf.mp4" autoplay loop/>](gaeel-portfolio)
 
 ## Games   
 * [*.lazr.* - A local multiplayer arena shooter](https://gaeel.itch.io/lazr)

@@ -1,0 +1,10 @@
+body{
+  background-image: url("mixingcinv.jpg");
+}
+
+:root {
+  --main-bg-color: #7dc2fb;
+	--main-color: #221e39;
+	--highlight: #be00b5;
+	--selection: #b39cea;
+}
