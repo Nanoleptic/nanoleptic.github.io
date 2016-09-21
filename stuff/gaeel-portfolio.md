@@ -1,6 +1,10 @@
 # Kevin "Gaeel" Bradshaw-Rodriguez   
 ## Portfolio   
 
+Here are some projects that show off the kind of movement-based design that I love to play around with. Real life moves all the time, in plenty of subtle ways, it's important that our digital media understands this and that we infuse even the simplest things with kinaesthetic beauty.   
+
+If you want to see other projects and things I worked on, go to the [projects page](/gaeel-projects) or back to the [main page](/gaeel)
+
 ### Archive
 
 <video src="https://i.imgur.com/07C7Jtf.mp4" alt="Archive" autoplay loop/>
