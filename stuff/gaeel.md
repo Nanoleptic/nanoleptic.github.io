@@ -9,24 +9,26 @@ Here are some ways to get in touch with Gaeel:
 * [gaeel@nanoleptic.net](mailto:gaeel@nanoleptic.net)
 * Over the phone (France): *(+33) 6 18 95 95 38*
 
-Check out my [portfolio](gaeel-portfolio) of moving pictures and old projects
+I've worked on and participated on some [projects](/projects), check them out maybe?
+
+There's also my [portfolio](gaeel-portfolio) of moving pictures if you want more exciting eye-candy
 
 [<video src="https://i.imgur.com/07C7Jtf.mp4" autoplay loop/>](gaeel-portfolio)
 
-## Games   
+### Games   
 * [*.lazr.* - A local multiplayer arena shooter](https://gaeel.itch.io/lazr)
 * [*BLAPP* - BLAPP DA INSURGENTS BEFOR DEY BLAPP U](https://gaeel.itch.io/blapp)
 * [Moar...](https://gaeel.itch.io/)
 
-## Installations
+### Installations
 * [*Prepare to Meet Thy God*](http://shakethatbutton.com/prepare-to-meet-thy-god/)
 * [*Sarcophagus* (Behance gallery by collaborator Celia Bétourné)](https://www.behance.net/gallery/35991941/Sarcophagus-Game-installation)
 
-## Writing
+### Writing
 * [*Input is Hard* - Series of analytical articles about input design](https://medium.com/@_Gaeel_/input-is-hard-intro-8578ebb5aa23)
 * [*What Keyboards Taught Me About People*](https://medium.com/@_Gaeel_/what-keyboards-taught-me-about-people-d3f1badd161b)
 
-## Crypto
+### Crypto
 
 My PGP identity is cross-referenced via my profile at [keybase.io/gaeel](http://keybase.io/gaeel)   
 If you need to send me something private or need me to verify my identity to you, please get in touch using [my public key](https://keybase.io/gaeel/key.asc).   
