@@ -28,8 +28,7 @@ This solves this by packing all the images into a big atlas, and monkey-patching
 
 ### Various projects, NaturalPad
 
-<iframe width="100
-" height="33%" src="https://www.youtube.com/embed/WfqyjK4H1tU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="33%" src="https://www.youtube.com/embed/WfqyjK4H1tU" frameborder="0" allowfullscreen></iframe>
 
 [NaturalPad](http://www.naturalpad.fr/) is a company in the south of France that uses motion detection devices to help with physical therapy through the cunning use of fun games!   
 While I worked there I made [Zether](https://www.youtube.com/watch?v=dtBPfM6oleU) and [Plume](https://www.youtube.com/watch?v=WfqyjK4H1tU), both in Unity (Plume was originally a [Löve2D prototype](https://www.youtube.com/watch?v=qbEOxql3b6w)).   
