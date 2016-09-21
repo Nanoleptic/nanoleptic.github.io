@@ -16,17 +16,23 @@ There's also my [portfolio](gaeel-portfolio) of moving pictures if you want more
 [<video src="https://i.imgur.com/07C7Jtf.mp4" autoplay loop/>](gaeel-portfolio)
 
 ### Games   
-* [*.lazr.* - A local multiplayer arena shooter](https://gaeel.itch.io/lazr)
-* [*BLAPP* - BLAPP DA INSURGENTS BEFOR DEY BLAPP U](https://gaeel.itch.io/blapp)
-* [Moar...](https://gaeel.itch.io/)
+* [.lazr.](https://gaeel.itch.io/lazr) A local multiplayer arena shooter
+* [BLAPP](https://gaeel.itch.io/blapp) BLAPP DA INSURGENTS BEFOR DEY BLAPP U
+* Or just go to [my itch.io page](https://gaeel.itch.io/)
 
 ### Installations
-* [*Sarcophagus* (Behance gallery by collaborator Celia Bétourne)](https://www.behance.net/gallery/35991941/Sarcophagus-Game-installation)
-* [*Prepare to Meet Thy God*](http://shakethatbutton.com/prepare-to-meet-thy-god/)
+* [Sarcophagus](https://www.behance.net/gallery/35991941/Sarcophagus-Game-installation), an audio-visual affront (Behance gallery by collaborator Celia Bétourne)
+* [Prepare to Meet Thy God](http://shakethatbutton.com/prepare-to-meet-thy-god/), a physical game about defusing a bomb in a dark room, with the weight of responsibility on your shoulders
 
 ### Writing
-* [*Input is Hard* - Series of analytical articles about input design](https://medium.com/@_Gaeel_/input-is-hard-intro-8578ebb5aa23)
-* [*What Keyboards Taught Me About People*](https://medium.com/@_Gaeel_/what-keyboards-taught-me-about-people-d3f1badd161b)
+* [Input is Hard](https://medium.com/@_Gaeel_/input-is-hard-intro-8578ebb5aa23) , a series of analytical articles about input design
+* [What Keyboards Taught Me About People](https://medium.com/@_Gaeel_/what-keyboards-taught-me-about-people-d3f1badd161b)
+
+### Music
+* [Blastwave](https://soundcloud.com/freelancer-epic/blastwave-hq-sox-oggenc-encode), a track written entirely in C code, made for Sarcophagus during Zoo Machines 2015
+* [There Was Only Light](https://soundcloud.com/freelancer-epic/there-was-only-light-work-in-progress), some sparkledub for an old story project
+* [Zweinflugger!](https://soundcloud.com/freelancer-epic/zweinflugger), probably the best track I ever wrote, *epic as fuck*, made for [a game with the same name](https://gaeel.itch.io/zweinflugger)
+
 
 ### Crypto
 
