@@ -30,7 +30,7 @@ body{
 	border-style: solid;
 	/*border-color: var(--selection);*/
 }
-img{
+img, video{
 	width: 100%;
 }
 h1{

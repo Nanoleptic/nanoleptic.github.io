@@ -3,7 +3,7 @@
 
 ### Archive
 
-![Archive](https://i.imgur.com/07C7Jtf.gif)
+![Archive](https://i.imgur.com/07C7Jtf.mp4)
 
 Archive was an experimental short story about a person sentenced to death for knowing too much. As they grip to their speeder, hackers tapped into their brain, trying to retrieve that fateful memory before the inevitable firey crash.  
 This project was never finished.
@@ -11,7 +11,7 @@ This project was never finished.
 
 ### Her Garden
 
-![Her Garden](https://i.imgur.com/4H041Qf.gif)
+![Her Garden](https://i.imgur.com/4H041Qf.mp4)
 
 Her Garden was a procedurally generated gardening/exploration game. When a player launched the game for the first time, they were given a garden with a unique colour palette and mysterious plants. The plants slowly grew, dropping seeds and turning the garden into a forest.   
 The player could collect seeds to plant them in other places, cut down unruly plants and move around the rocks and torches as they tended to their garden.   
@@ -21,7 +21,7 @@ The gardens were taken offline when no more gardeners visited
 
 ### Plume
 
-![Plume](https://i.imgur.com/E1eSizf.gif)
+![Plume](https://i.imgur.com/E1eSizf.mp4)
 
 Plume is a short game made during a train trip, about a calligrapher who sold their soul to a cursed vial of ink.   
 This project was further developed for [NaturalPad](http://www.naturalpad.fr/), who expressed interest in using the game for wrist injury rehabilitation.  
@@ -30,7 +30,7 @@ This project was further developed for [NaturalPad](http://www.naturalpad.fr/), 
 
 ### Super Mega Death-o-Tron   
 
-![Super Mega Death-o-Tron](https://i.imgur.com/LmjFdkw.gif)
+![Super Mega Death-o-Tron](https://i.imgur.com/LmjFdkw.mp4)
 
 I was beatboxing, and to transition to a new beat, I said "Super Mega Death-o-Tron" and then did my best to make dubstep noises with my mouth.   
 The name "Super Mega Death-o-Tron" was funny enough for me to try and make a small prototype of how such a machine would behave.   
@@ -40,7 +40,7 @@ I can't remember why I didn't go any further with this...
 
 ### HopPopPop
 
-![HopPopPop](https://i.imgur.com/YGrxpo4.gif)
+![HopPopPop](https://i.imgur.com/YGrxpo4.mp4)
 
 This game has bullet casings!   
 Unfortunately, I hadn't yet uploaded it to a off-site repo when my laptop was stolen in a burglary. This game is no more...
@@ -48,7 +48,7 @@ Unfortunately, I hadn't yet uploaded it to a off-site repo when my laptop was st
 
 ### Blast 10   
 
-![Blast 10](https://i.imgur.com/yFroNam.gif)
+![Blast 10](https://i.imgur.com/yFroNam.mp4)
 
 A super arcadey shmup thing, originally made to show some "juicy" techniques, I just never really stopped working on it.   
 It's going to be released soon, and has some really cool music made by [Cyanide Dansen](https://cyanidedansen.bandcamp.com/album/corona-zeatin)
