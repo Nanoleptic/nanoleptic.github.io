@@ -3,7 +3,7 @@
 
 Here are some projects I worked on. Some people would call this a "curriculum vitae". I'm not so sure...   
 Anyway, yes, it's mostly some gamey stuff, prototypey stuff, community stuff.   
-If you're looking for things that are pretty to look at, maybe check out my [/portfolio](/gaeel-lportfolio)?   
+If you're looking for things that are pretty to look at, maybe check out my [portfolio](/gaeel-lportfolio)?   
 Or you can go back to my [main page](/gaeel) for contact details and more fun stuff...
 
 ### Adventure game prototype   
@@ -42,7 +42,6 @@ Working with NaturalPad was a lot of fun, being in touch with healthcare profess
 
 
 ### Baptême du Jeu
-
 [![BaptemeDuJeu](http://img.20mn.fr/rnpOctf4Qdak6DCpfQ5xWw/2048x1536-fit_marathon-jeu-video.jpg)](http://www.20minutes.fr/societe/1281326-20140127-marathon-jeu-video)
 
 Baptême du Jeu was a society in Montpellier France, founded by [Wilbefast](/wilbefast) and your's truly, dedicated to introducing people to the joy of making video games, and providing the local game dev community with resources and opportunities.   

@@ -48,9 +48,13 @@ h2{
 	text-decoration: underline;
 }
 h3{
-	font-weight: bold;
+	font-weight: normal;
 	font-size: medium;
 	text-decoration: none;
+  padding-left: 4ch;
+  margin-bottom: 0px;
+  color: var(--main-bg-color);
+  background-color: var(--main-color);
 }
 li{
 	list-style-type: none;
