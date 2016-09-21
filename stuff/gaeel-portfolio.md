@@ -11,7 +11,7 @@ This project was never finished.
 
 ### Her Garden
 
-<video src="https://i.imgur.com/07C7Jtf.mp4" alt="Archive" autoplay loop/>
+<video src="https://i.imgur.com/4H041Qf.mp4" alt="Archive" autoplay loop/>
 
 Her Garden was a procedurally generated gardening/exploration game. When a player launched the game for the first time, they were given a garden with a unique colour palette and mysterious plants. The plants slowly grew, dropping seeds and turning the garden into a forest.   
 The player could collect seeds to plant them in other places, cut down unruly plants and move around the rocks and torches as they tended to their garden.   
