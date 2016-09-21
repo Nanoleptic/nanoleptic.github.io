@@ -22,7 +22,7 @@ There's also my [portfolio](gaeel-portfolio) of moving pictures if you want more
 
 ### Installations
 * [*Prepare to Meet Thy God*](http://shakethatbutton.com/prepare-to-meet-thy-god/)
-* [*Sarcophagus* (Behance gallery by collaborator Celia Bétourné)](https://www.behance.net/gallery/35991941/Sarcophagus-Game-installation)
+* [*Sarcophagus* (Behance gallery by collaborator Celia Bétourne)](https://www.behance.net/gallery/35991941/Sarcophagus-Game-installation)
 
 ### Writing
 * [*Input is Hard* - Series of analytical articles about input design](https://medium.com/@_Gaeel_/input-is-hard-intro-8578ebb5aa23)
