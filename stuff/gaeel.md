@@ -9,7 +9,7 @@ Here are some ways to get in touch with Gaeel:
 * [gaeel@nanoleptic.net](mailto:gaeel@nanoleptic.net)
 * Over the phone (France): *(+33) 6 18 95 95 38*
 
-I've worked on and participated on some [projects](/projects), check them out maybe?
+I've worked on and participated on some [projects](/gaeel-projects), check them out maybe?
 
 There's also my [portfolio](gaeel-portfolio) of moving pictures if you want more exciting eye-candy
 
