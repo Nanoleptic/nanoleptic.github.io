@@ -5,7 +5,7 @@
 Gaeel is a digital artist, creative programmer, game designer and one hoopy frood. He likes curry, hanging out with his housemates, going to digital media and alt-game events and a good belgian beer.   
 Here are some ways to get in touch with Gaeel:   
 
-* [*@\_Gaeel\_* on Twitter dot com](https://twitter.com/_Gaeel_)
+* [@\_Gaeel\_](https://twitter.com/_Gaeel_) on Twitter dot com
 * [gaeel@nanoleptic.net](mailto:gaeel@nanoleptic.net)
 * Over the phone (France): *(+33) 6 18 95 95 38*
 
@@ -21,8 +21,8 @@ There's also my [portfolio](gaeel-portfolio) of moving pictures if you want more
 * [Moar...](https://gaeel.itch.io/)
 
 ### Installations
-* [*Prepare to Meet Thy God*](http://shakethatbutton.com/prepare-to-meet-thy-god/)
 * [*Sarcophagus* (Behance gallery by collaborator Celia Bétourne)](https://www.behance.net/gallery/35991941/Sarcophagus-Game-installation)
+* [*Prepare to Meet Thy God*](http://shakethatbutton.com/prepare-to-meet-thy-god/)
 
 ### Writing
 * [*Input is Hard* - Series of analytical articles about input design](https://medium.com/@_Gaeel_/input-is-hard-intro-8578ebb5aa23)
