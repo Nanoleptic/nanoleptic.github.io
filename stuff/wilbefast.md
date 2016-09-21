@@ -11,4 +11,4 @@ I like demonology.
 
 I like martial arts.
 
-See my stuff <a href="http://wilbefast.com">here</a>.
+See my stuff [here](http://wilbefast.com)
