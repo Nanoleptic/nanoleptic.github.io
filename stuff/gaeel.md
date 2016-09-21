@@ -5,6 +5,7 @@ I'm a game programmer and designer, a "multimedia" "artist", I like to make thin
 I can usually be found mucking about with computery things, either programming or building custom computer keyboards.   
 Otherwise, I like to hang out with my housemates, in close proximity to some decent beer and hot chips.
 
+Here's how to get in touch:
 * [@\_Gaeel\_](https://twitter.com/_Gaeel_) on Twitter dot com
 * [gaeel@nanoleptic.net](mailto:gaeel@nanoleptic.net)
 * Over the phone (France): *(+33) 6 18 95 95 38*
