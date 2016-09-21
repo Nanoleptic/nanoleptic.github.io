@@ -3,7 +3,7 @@
 
 Here are some projects I worked on. Some people would call this a "curriculum vitae". I'm not so sure...   
 Anyway, yes, it's mostly some gamey stuff, prototypey stuff, community stuff.   
-If you're looking for things that are pretty to look at, maybe check out my [portfolio](/gaeel-lportfolio)?   
+If you're looking for things that are pretty to look at, maybe check out my [portfolio](/gaeel-portfolio)?   
 Or you can go back to my [main page](/gaeel) for contact details and more fun stuff...
 
 ### Adventure game prototype   

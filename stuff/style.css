@@ -30,6 +30,9 @@ body{
 	border-style: solid;
 	/*border-color: var(--selection);*/
 }
+p{
+  margin-top: 0px;
+}
 img, video{
 	width: 100%;
 }
