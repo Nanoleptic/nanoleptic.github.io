@@ -1,9 +1,9 @@
 # Kevin "Gaeel" Bradshaw-Rodriguez   
 ## Futurepunk   
-"From the formless void's gaping maw, there springs an entity."   
 
-Gaeel is a digital artist, creative programmer, game designer and one hoopy frood. He likes curry, hanging out with his housemates, going to digital media and alt-game events and a good belgian beer.   
-Here are some ways to get in touch with Gaeel:   
+I'm a game programmer and designer, a "multimedia" "artist", I like to make things that move, and I'm bad at writing words.   
+I can usually be found mucking about with computery things, either programming or building custom computer keyboards.   
+Otherwise, I like to hang out with my housemates, in close proximity to some decent beer and hot chips.
 
 * [@\_Gaeel\_](https://twitter.com/_Gaeel_) on Twitter dot com
 * [gaeel@nanoleptic.net](mailto:gaeel@nanoleptic.net)
