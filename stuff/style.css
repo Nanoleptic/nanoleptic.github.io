@@ -1,6 +1,6 @@
 :root {
-  --main-bg-color: #DDD;
-	--main-color: #222;
+  --main-bg-color: #222;
+	--main-color: #DDD;
 	--highlight: #D2D;
 	--selection: #2D2;
 }
@@ -25,10 +25,13 @@ body{
 	padding: 20px;
 	width: 80ch;
 	float: right;
-	margin: 20px;
+	margin: 0px 20px;
 	border-width: 20px 1px 1px 1px;
 	border-style: solid;
 	/*border-color: var(--selection);*/
+}
+img{
+	width: 100%;
 }
 h1{
 	font-weight: bolder;
@@ -43,6 +46,11 @@ h2{
 	font-weight: bold;
 	font-size: medium;
 	text-decoration: underline;
+}
+h3{
+	font-weight: bold;
+	font-size: medium;
+	text-decoration: none;
 }
 li{
 	list-style-type: none;
