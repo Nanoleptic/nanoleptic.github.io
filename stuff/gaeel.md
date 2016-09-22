@@ -41,3 +41,7 @@ There's also my [portfolio](gaeel-portfolio) of moving pictures if you want more
 My PGP identity is cross-referenced via my profile at [keybase.io/gaeel](http://keybase.io/gaeel)   
 If you need to send me something private or need me to verify my identity to you, please get in touch using [my public key](https://keybase.io/gaeel/key.asc).   
 On my [keybase profile](http://keybase.io/gaeel), you can use the 🔒 icon to encrypt a message to me, or the ✓ icon to verify a message I signed was really from me.
+
+### Photo credit
+
+The background photo was taken by [Eli Fessler](https://twitter.com/frozenpandaman) during A Maze Berlin 2016.
