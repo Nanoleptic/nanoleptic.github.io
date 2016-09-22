@@ -27,7 +27,7 @@ There's also my [portfolio](gaeel-portfolio) of moving pictures if you want more
 * [Prepare to Meet Thy God](http://shakethatbutton.com/prepare-to-meet-thy-god/), a physical game about defusing a bomb in a dark room, with the weight of responsibility on your shoulders
 
 ### Writing
-* [Input is Hard](https://medium.com/@_Gaeel_/input-is-hard-intro-8578ebb5aa23) , a series of analytical articles about input design
+* [Input is Hard](https://medium.com/@_Gaeel_/input-is-hard-intro-8578ebb5aa23), a series of analytical articles about input design
 * [What Keyboards Taught Me About People](https://medium.com/@_Gaeel_/what-keyboards-taught-me-about-people-d3f1badd161b)
 
 ### Music
