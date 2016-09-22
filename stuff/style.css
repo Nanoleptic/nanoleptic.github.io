@@ -6,8 +6,8 @@
 }
 
 body{
-	font-family: monospace;
-	font-size: medium;
+	font-family:'Conv_SourceCodePro-Light',Sans-Serif;
+	font-size: small;
 	color: var(--main-color);
 	background-color: #000;
 	background-image: url("default.png");
