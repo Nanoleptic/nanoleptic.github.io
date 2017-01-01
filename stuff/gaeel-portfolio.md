@@ -5,6 +5,17 @@ Here are some projects that show off the kind of movement-based design that I lo
 
 If you want to see other projects and things I worked on, go to the [projects page](/gaeel-projects) or back to the [main page](/gaeel)
 
+
+### A Lövely Little Fire
+
+<video src="https://i.imgur.com/twOEqvu.mp4" autoplay loop/>
+
+Made during a train trip to Paris in the winter of 2016, and later tweaked to add some lövely little secrets, *A Lövely Little Fire* is a virtual fireplace.   
+You can [download it for yourself on Itch.io](https://gaeel.itch.io/a-lovely-little-fire)   
+<iframe frameborder="0" src="https://itch.io/embed/108680?bg_color=131c1c&amp;fg_color=fa8c00&amp;link_color=fac600&amp;border_color=404949" width="100%" height="167"></iframe>
+
+
+
 ### Archive
 
 <video src="https://i.imgur.com/07C7Jtf.mp4" autoplay loop/>
