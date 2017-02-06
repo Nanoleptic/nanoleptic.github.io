@@ -1,0 +1,39 @@
+<head>
+	<title>List of all natural numbers</title>
+	<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+</head>
+
+
+<body>
+	<p>This is a list of all the natural numbers (excluding zero)</p>
+	<ul id="numbers"></ul>
+	<script>
+	next = 1;
+	function fill(max) {
+		var cnt = 0;
+		var str = ""
+		while ($(document).height() <= $(window).scrollTop() + $(window).height() && cnt<max) {
+			str+="<li id=\""+next+"\">"+next+"</li>";
+			next++;
+			cnt++;
+		}
+		$("#numbers").append(str);
+	}
+	$(window).scroll(function () {
+		if ($(document).height() <= $(window).scrollTop() + $(window).height()) {
+			fill(Math.log(next+1));
+		}
+	});
+	$( document ).ready(function() {
+		if(window.location.hash) {
+			var hash = window.location.hash.substring(1); //Puts hash in variable, and removes the # character
+			fill(parseInt(hash,10)+300);
+			// hash found
+		} else {
+			fill(300);
+			// No hash found
+		}
+	});
+	</script>
+
+</body>
